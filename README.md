@@ -2,4 +2,4 @@
 
 1) run `docs.py` to generate rst-files
 
-2) run `bin/docs.py` to generate documentation  
+2) run `bin/docs` to generate documentation  
